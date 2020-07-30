@@ -19,4 +19,4 @@ phases:
 
 artifacts:
   files:
-    - target/explorecali-0.0.2-SNAPSHOT.jar
+    - target/explorecali-0.0.2  -SNAPSHOT.jar
